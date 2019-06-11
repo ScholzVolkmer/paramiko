@@ -51,7 +51,7 @@ setup(
     long_description=longdesc,
     author="Jeff Forcier",
     author_email="jeff@bitprophet.org",
-    url="https://github.com/paramiko/paramiko/",
+    url="https://github.com/ScholzVolkmer/paramiko/",
     packages=["paramiko"],
     license="LGPL",
     platforms="Posix; MacOS X; Windows",
